@@ -11,12 +11,6 @@ This repository contains lecture slides and tutorials
 |     Neural Networks      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rds67KHwzfbLhGfPoRgGD1AXH-peQntW?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrxKt5OqI_nYYcY3Op8rjYkUgy4fp_IQ?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ko32zr0OvVCIzBWPOAuM_xWyBGg-loRX?usp=sharing) | [Day 3](./Lectures/Day-3.pdf) | [Day 3](./Lectures/Day-3.pptx) | [Exercise 1](./Exercises/day3_NN_Numpy_MNIST_Exercise.ipynb) [Exercise 2](./Exercises/day3_NN_Pytorch_MNIST_Exercise.ipynb) [Review Session Notebook](./Exercises/IrisClassificationModelSolution(Updated).ipynb) 
 |       Applications       |                                                                                                                              [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12uVJQCxaXHa4fwrjELwdReIqilpaiyKv?usp=sharing)                                                                                                                              | [Day 4](./Lectures/Day-4.pdf) | [Day 4](./Lectures/Day-4.pptx) |                                        [Exercise 1](./Exercises/day4_Logistic_Regression_Pytorch_Breast_Cancer_Exercise.ipynb)                                         
 
-## Cool Sites
-
-- [Interactive Linear Regression](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression) | [Visual Deep Dive into Linear Regression](https://mlu-explain.github.io/linear-regression/) (*
-  I personally prefer this one)
-- [Useful Documentation for NN in Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html)
-
 ## Dependencies
 
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this
