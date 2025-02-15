@@ -1,4 +1,6 @@
-# Advanced Artificial Intelligence
+# Stage 3: Advanced Artificial Intelligence Course 
+Welcome to Stage 3 of the Advanced Artificial Intelligence Course! 
+This repository contains lecture slides, tutorials, hands-on coding exercises.
 
 ## Materials (will be updated daily)
 
