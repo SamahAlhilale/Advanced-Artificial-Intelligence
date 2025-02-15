@@ -10,6 +10,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <th><b>Lectures</b></th>
     <th><b>Labs</b></th>
     <th><b>Solutions</b></th>
+    <th><b>Recordings</b></th>
   </tr>
   <tr>
     <td>Day 1</td>
@@ -21,5 +22,6 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">
      Lab 2: <a href="https://colab.research.google.com/drive/1YV02T4LLJByeix9J7H8dMAz3JbsMrvCG?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=n8gslNVYXXA">Lab 2 </a></td>
   </tr>
 </table>
