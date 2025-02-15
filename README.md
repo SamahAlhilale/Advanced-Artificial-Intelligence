@@ -19,7 +19,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
       Lab 2 <a href="https://colab.research.google.com/drive/1DM05xxA04dwOvfLNXn_25PJlzRh6kNP2?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
     <td align="center">
-     Lab 1: <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+     Lab 1: <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> <br>
      Lab 2: <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
   </tr>
