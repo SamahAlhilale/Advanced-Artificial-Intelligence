@@ -1,11 +1,6 @@
-# Stage 2: Introduction to Artificial Intelligence
+# Advanced Artificial Intelligence
 
-Welcome to stage 2 of Artificial Intelligence Program! This repository contains lecture slides and tutorials in Python
-that will help you learn the basics about artificial intelligence.
-
-## Exam Link
-
-[Exam and Feedback Link](https://naeemullah-khan.github.io/KAIAI24B2/)
+This repository contains lecture slides and tutorials 
 
 ## Materials (will be updated daily)
 
