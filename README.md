@@ -15,10 +15,11 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td>Day 1</td>
     <td align="center"><a href="https://drive.google.com/file/d/1iKHG4bJRS4AQOpQjUeZN8Nlnn6Wq1TbD/view?usp=sharing">Slides</a></td>
     <td align="center">
-      Lab 1 <a href="https://colab.research.google.com/drive/1ZVcPLTEnVLh4emltf31j0oefwB0Y0lgy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 1 <a href="https://colab.research.google.com/drive/14sr4nCp8dEYiT0P6lRvNLHrXX0p1ovum?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
       Lab 2 <a href="https://colab.research.google.com/drive/1DM05xxA04dwOvfLNXn_25PJlzRh6kNP2?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
     <td align="center">
+     Lab 1: <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
      Lab 2: <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
   </tr>
