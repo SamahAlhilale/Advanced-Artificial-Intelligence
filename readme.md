@@ -1,53 +1,28 @@
-## Part 1: Generative Deep Learning
+# Stage 2: Introduction to Artificial Intelligence
 
-<table>
-  <tr>
-    <th></th>
-    <th><b>Lectures</b></th>
-    <th colspan="2"><b>Labs</b></th>
-    <th><b>Solutions</b></th>
-  </tr>
-  <tr>
-    <td>Intro</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/1_Intro.pdf">Slides</a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>AutoEncoders</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/2_VAE.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_AutoEncoders.ipynb">Lab 1</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_AutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_AutoEncoders_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-  </tr>
-  <tr>
-    <td>VAEs</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/2_VAE.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_VariationalAutoEncoders.ipynb">Lab 2</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_VariationalAutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_VariationalAutoEncoders_Soln.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-  </tr>
-  <tr>
-    <td>GANs</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/3_GANs.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/GAN_MNIST_example.ipynb">Lab 3</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/GAN_MNIST_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/GAN_MNIST_solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-  </tr>
-  <tr>
-    <td>Normalizing Flows</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/4_NFs.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Exercise.ipynb">Lab 4</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/NF_mnist_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-  </tr>
-  <tr>
-    <td>Diffusion Models</td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Slides/5_Diffusion.pdf">Slides</a></td>
-    <td align="center"><a href="https://github.com/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Exercise.ipynb">Lab 5</a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-    <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/DiffusionModels_Solution.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
-  </tr>
-</table>
+Welcome to stage 2 of Artificial Intelligence Program! This repository contains lecture slides and tutorials in Python
+that will help you learn the basics about artificial intelligence.
 
+## Exam Link
+
+[Exam and Feedback Link](https://naeemullah-khan.github.io/KAIAI24B2/)
+
+## Materials (will be updated daily)
+
+|          Topic           |                                                                                                                                                              Open in Colab                                                                                                                                                               |          Slides PDF           |          Slides PPTX           |                                                    Additional Exercises                                                     
+|:------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:
+| Linear Regression Basics |                                                                                   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RO4NO8q9oceZqDzMGeY4PAiTk2cBr765?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dXVKfOFcYgfeNnwY077xFQilKqEcbWm_?usp=sharing)                                                                                                                  | [Day 1](./Lectures/Day-1.pdf) | [Day 1](./Lectures/Day-1.pptx) |  [Exercise 1](./Exercises/day1_Linear_Regression_Basics.ipynb) [Solution](./Solutions/day1_Linear_Regression_Basics.ipynb)  [Review Session Notebook](./Exercises/LinearRegression.ipynb)
+|   Logistic Regression    |                                                                                   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DVLiR2XJJjLyT8ckREWUgOrF37MAJdAS?usp=sharing)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jmMQrC-BkMKdu7QYGtamA-cXdcS7toTh?usp=sharing)                                                                                  | [Day 2](./Lectures/Day-2.pdf) | [Day 2](./Lectures/Day-2.pptx) |    [Exercise 1](./Exercises/Hands-on-session-Day-2.ipynb)  [Solution](./Solutions/Hands-on-session-Day-2-solution.ipynb) [Review Session Notebook](revision/LG_f_review.ipynb) 
+|     Neural Networks      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rds67KHwzfbLhGfPoRgGD1AXH-peQntW?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IrxKt5OqI_nYYcY3Op8rjYkUgy4fp_IQ?usp=sharing)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ko32zr0OvVCIzBWPOAuM_xWyBGg-loRX?usp=sharing) | [Day 3](./Lectures/Day-3.pdf) | [Day 3](./Lectures/Day-3.pptx) | [Exercise 1](./Exercises/day3_NN_Numpy_MNIST_Exercise.ipynb) [Exercise 2](./Exercises/day3_NN_Pytorch_MNIST_Exercise.ipynb) [Review Session Notebook](./Exercises/IrisClassificationModelSolution(Updated).ipynb) 
+|       Applications       |                                                                                                                              [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12uVJQCxaXHa4fwrjELwdReIqilpaiyKv?usp=sharing)                                                                                                                              | [Day 4](./Lectures/Day-4.pdf) | [Day 4](./Lectures/Day-4.pptx) |                                        [Exercise 1](./Exercises/day4_Logistic_Regression_Pytorch_Breast_Cancer_Exercise.ipynb)                                         
+
+## Cool Sites
+
+- [Interactive Linear Regression](https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression) | [Visual Deep Dive into Linear Regression](https://mlu-explain.github.io/linear-regression/) (*
+  I personally prefer this one)
+- [Useful Documentation for NN in Pytorch](https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html)
+
+## Dependencies
+
+[Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this
+repository. You do not need to install any additional packages.
