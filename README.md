@@ -5,12 +5,13 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
 ## Materials (will be updated daily)
 
 <table>
-  <tr>
-    <th></th>
-    <th><b>Lectures</b></th>
-    <th><b>Labs</b></th>
-    <th><b>Solutions</b></th>
-    <th><b>Recordings</b></th>
+<tr>
+    <td>Day</td>
+    <td align="center">Lecture Materials</td>
+    <td align="center">Lab</td>
+    <td align="center">Solutions</td>
+    <td align="center">Recordings</td>
+    <td align="center">Exercises</td>
   </tr>
   <tr>
     <td>Day 1</td>
@@ -20,9 +21,10 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
       Lab 2 <a href="https://colab.research.google.com/drive/1DM05xxA04dwOvfLNXn_25PJlzRh6kNP2?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
     <td align="center">
-     Lab 2: <a href="https://colab.research.google.com/drive/1YV02T4LLJByeix9J7H8dMAz3JbsMrvCG?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+      Lab 2: <a href="https://colab.research.google.com/drive/1YV02T4LLJByeix9J7H8dMAz3JbsMrvCG?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
     <td align="center"><a href="https://www.youtube.com/watch?v=n8gslNVYXXA">Lab 1 & 2 </a></td>
+    <td align="center">-</td>
   </tr>
   <tr>
     <td>Day 2</td>
@@ -31,10 +33,21 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
       Lab 3 <a href="https://colab.research.google.com/drive/1RVJgtWMy9rwEJtuQMy4OTEL3xyILWcHr?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
       Lab 4 <a href="https://colab.research.google.com/drive/1w7gDnTj_Zp-aRN9yEaFJuCbSvi4gNY9Q?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
-    <td align="center">
-    <!-- Lab 3: <a href="https://colab.research.google.com/drive/[id]?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> -->
+    <td align="center">-
     </td>
     <td align="center"><a href=""></a></td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Day 3</td>
+    <td align="center"><a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a></td>
+    <td align="center">
+      Lab 5 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    </td>
+    <td align="center">
+    </td>
+    <td align="center"><a href=""></a></td>
+   <td align="center"><a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   
 </table>
