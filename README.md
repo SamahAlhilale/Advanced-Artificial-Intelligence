@@ -28,8 +28,8 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td>Day 2</td>
     <td align="center"><a href="https://drive.google.com/file/d/1si-pgbTiRyZFd7pN9zWqgySJC_Bu7K9U/view?usp=sharing">Slides</a></td>
     <td align="center">
-      Lab 3 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
-      Lab 4 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+      Lab 3 <a href="https://colab.research.google.com/drive/1RVJgtWMy9rwEJtuQMy4OTEL3xyILWcHr?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 4 <a href="https://colab.research.google.com/drive/1w7gDnTj_Zp-aRN9yEaFJuCbSvi4gNY9Q?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
     </td>
     <td align="center">
     <!-- Lab 3: <a href="https://colab.research.google.com/drive/[id]?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> -->
