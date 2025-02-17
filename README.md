@@ -26,6 +26,8 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center"><a href="https://www.youtube.com/watch?v=n8gslNVYXXA">Lab 1 & 2 </a></td>
     <td align="center">-</td>
   </tr>
+
+    
   <tr>
     <td>2</td>
     <td align="center"><a href="https://drive.google.com/file/d/1si-pgbTiRyZFd7pN9zWqgySJC_Bu7K9U/view?usp=sharing">Slides</a></td>
@@ -41,16 +43,39 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     </td>
     <td align="center">-</td>
   </tr>
+
+    
   <tr>
     <td>3</td>
-    <td align="center"><a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a></td>
     <td align="center">
-      Lab 5 <a href="https://colab.research.google.com/drive/1RIjRj2kZXKgX3rvqJ4cDu3L0TBGuqvkC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+        <a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a><br>
+        <a href="https://drive.google.com/file/d/1fk_XDvWD2LdLazvE6Zq4J7Ujsz4bzHJX/view?usp=sharing">Lecture Notes</a>
+    </td>
+    <td align="center">
+      Lab 5 <a href="https://drive.google.com/file/d/1fk_XDvWD2LdLazvE6Zq4J7Ujsz4bzHJX/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
     <td align="center">
     </td>
-    <td align="center"><a href=""></a></td>
+    <td align="center">
+    <a href="https://youtu.be/YjSe7RMXIkU">Lecture part</a><br>
+    <a href="https://kaust.zoom.us/rec/share/LVwlV5UKGxneNwqSyeaGA3pwee-qvVLYeiAk1VLf-LUlDMz6udLlkTwn7I11t94f.FsfFOMnVbcYGlOx1">Coding part (Password: gk8l1@tt) </a>
    <td align="center"><a href="https://colab.research.google.com/drive/1XfpJXfCQJaLq_7q4QJNW4sGS03pYSEMd?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+  </tr>
+
+<tr>
+    <td>4</td>
+    <td align="center">
+        <a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a><br>
+    </td>
+    <td align="center">
+      Lab 6 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    </td>
+    <td align="center">
+    </td>
+    <td align="center">
+    <a href=""</a><br>
+    <a href=""</a>
+   <td align="center"></td>
   </tr>
   
 </table>
