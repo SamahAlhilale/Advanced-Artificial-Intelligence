@@ -49,8 +49,6 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     </td>
     <td align="center">
     </td>
-    <td align="center"><a href="https://colab.research.google.com/drive/1xLIrXQnIEv01vicjZdoMyr0UKb-VBnDv?usp=sharing"></a></td>
-   <td align="center"><a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+      Exercise 5 <a href="https://colab.research.google.com/drive/1xLIrXQnIEv01vicjZdoMyr0UKb-VBnDv?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
   </tr>
-  
 </table>
