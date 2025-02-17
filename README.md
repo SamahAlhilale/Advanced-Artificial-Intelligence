@@ -14,7 +14,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">Exercises</td>
   </tr>
   <tr>
-    <td>Day 1</td>
+    <td>1</td>
     <td align="center"><a href="https://drive.google.com/file/d/1iKHG4bJRS4AQOpQjUeZN8Nlnn6Wq1TbD/view?usp=sharing">Slides</a></td>
     <td align="center">
       Lab 1 <a href="https://colab.research.google.com/drive/1ZVcPLTEnVLh4emltf31j0oefwB0Y0lgy?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
@@ -27,7 +27,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">-</td>
   </tr>
   <tr>
-    <td>Day 2</td>
+    <td>2</td>
     <td align="center"><a href="https://drive.google.com/file/d/1si-pgbTiRyZFd7pN9zWqgySJC_Bu7K9U/view?usp=sharing">Slides</a></td>
     <td align="center">
       Lab 3 <a href="https://colab.research.google.com/drive/1RVJgtWMy9rwEJtuQMy4OTEL3xyILWcHr?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
@@ -42,7 +42,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">-</td>
   </tr>
   <tr>
-    <td>Day 3</td>
+    <td>3</td>
     <td align="center"><a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a></td>
     <td align="center">
       Lab 5 <a href="https://colab.research.google.com/drive/1RIjRj2kZXKgX3rvqJ4cDu3L0TBGuqvkC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
