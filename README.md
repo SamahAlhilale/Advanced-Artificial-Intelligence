@@ -45,12 +45,12 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td>Day 3</td>
     <td align="center"><a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a></td>
     <td align="center">
-      Lab 5 <a href="https://colab.research.google.com/drive/1ndbfYoPDI5QeqWCrfsjhE7EZbqxRfVOA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 5 <a href="https://colab.research.google.com/drive/1RIjRj2kZXKgX3rvqJ4cDu3L0TBGuqvkC?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
     <td align="center">
     </td>
     <td align="center"><a href=""></a></td>
-   <td align="center"><a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
+   <td align="center"><a href="https://colab.research.google.com/drive/1XfpJXfCQJaLq_7q4QJNW4sGS03pYSEMd?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
   
 </table>
