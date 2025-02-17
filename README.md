@@ -35,7 +35,10 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     </td>
     <td align="center">-
     </td>
-    <td align="center"><a href=""></a></td>
+    <td align="center">
+    <a href="https://youtu.be/awt7qBOD3us">Lab 3</a><br>
+    <a href="https://youtu.be/AF0jQfiSQ0Y">Lab 4</a>
+    </td>
     <td align="center">-</td>
   </tr>
   <tr>
