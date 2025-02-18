@@ -75,8 +75,44 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     </td>
     <td align="center">
     <a href="https://kaust.zoom.us/rec/share/jznHEciS9fRfI4Cf9FZEyMl06PhxyEdIjbc1dGPQ_Ly3BloQGEw_YH99I9OwXd4D.bBYLeKPztfXxvuj2">Lecture part (Password: @u6BIbZ8) </a>
+   <td align="center">
+    <a href="https://colab.research.google.com/drive/1KO1ZrcUSyS3rbikjRAsiZY7FoBb8FWti?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>   
+   </td>
+  </tr>
+
+ <tr>
+    <td>5</td>
+    <td align="center">
+        <a href="https://drive.google.com/file/d/1PXgr-xukW3Lfq_VioBSqMXnjYqe8D0ZB/view?usp=sharing">Slides</a><br>
+    </td>
+    <td align="center">
+      Lab 8 <a href="https://colab.research.google.com/drive/1dgsJsgN-RZZQX6nYHShMgUg-nRSsfdmV?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 9 <a href="https://colab.research.google.com/drive/11NSveQRy8BO9gK8P4gxREnzOHj_Jwh8G?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 10 <a href="https://colab.research.google.com/drive/1cAMwsuZF7fAuE8SloxDnSxRVytcJ7NB8?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+    </td>
+    <td align="center">-
+    </td>
+    <td align="center">
+    <a href=""</a>
     <a href=""</a>
    <td align="center">-</td>
   </tr>
+
+   <tr>
+    <td>5</td>
+    <td align="center">
+        <a href="">Slides</a><br>
+    </td>
+    <td align="center">
+      </a><br>
+    </td>
+    <td align="center">-
+    </td>
+    <td align="center">
+    <a href=""</a>
+    <a href=""</a>
+   <td align="center">-</td>
+  </tr>
+    
   
 </table>
