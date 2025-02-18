@@ -99,7 +99,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
   </tr>
 
    <tr>
-    <td>5</td>
+    <td>6</td>
     <td align="center">
         <a href="">Slides</a><br>
     </td>
