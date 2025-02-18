@@ -48,7 +48,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
   <tr>
     <td>3</td>
     <td align="center">
-        <a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a><br>
+        <a href="https://drive.google.com/file/d/1si-pgbTiRyZFd7pN9zWqgySJC_Bu7K9U/view?usp=sharing">Slides</a><br>
         <a href="https://drive.google.com/file/d/1fk_XDvWD2LdLazvE6Zq4J7Ujsz4bzHJX/view?usp=sharing">Lecture Notes</a>
     </td>
     <td align="center">
