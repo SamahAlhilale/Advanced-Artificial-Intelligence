@@ -52,7 +52,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
         <a href="https://drive.google.com/file/d/1fk_XDvWD2LdLazvE6Zq4J7Ujsz4bzHJX/view?usp=sharing">Lecture Notes</a>
     </td>
     <td align="center">
-      Lab 5 <a href="https://drive.google.com/file/d/1fk_XDvWD2LdLazvE6Zq4J7Ujsz4bzHJX/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 5 <a href="https://colab.research.google.com/drive/1ndbfYoPDI5QeqWCrfsjhE7EZbqxRfVOA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
     <td align="center">
     </td>
@@ -68,7 +68,8 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
         <a href="https://drive.google.com/file/d/19le6cU_zXn8baUnDJx6u19e7Asfel8P5/view?usp=sharing">Slides</a><br>
     </td>
     <td align="center">
-      Lab 6 <a href=""><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 6 <a href="https://colab.research.google.com/drive/12bZhcX3mbVJzpxYkFVI46ciK0yCPCtm_?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 7 <a href="https://colab.research.google.com/drive/1XhX6IiVaYcaOTQt2CI-RuPGRbXY0gm8u?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
     <td align="center">
     </td>
