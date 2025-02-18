@@ -75,6 +75,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     </td>
     <td align="center">
     <a href="https://kaust.zoom.us/rec/share/jznHEciS9fRfI4Cf9FZEyMl06PhxyEdIjbc1dGPQ_Ly3BloQGEw_YH99I9OwXd4D.bBYLeKPztfXxvuj2">Lecture part (Password: @u6BIbZ8) </a>
+    <a href="https://kaust.zoom.us/rec/share/HlPda1yW1uwAHtvlOmj2wGnco4ik-k_Zi09BSzqlAWzybOVPOnLAMgwZET7TlQXH.BcRb9MeRMVxWf2MP">}Coding part (Password: 8^S%Ld8o) </a>
    <td align="center">
     <a href="https://colab.research.google.com/drive/1KO1ZrcUSyS3rbikjRAsiZY7FoBb8FWti?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>   
    </td>
