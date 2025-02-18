@@ -54,7 +54,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">
       Lab 5 <a href="https://colab.research.google.com/drive/1ndbfYoPDI5QeqWCrfsjhE7EZbqxRfVOA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
-    <td align="center">
+    <td align="center">-
     </td>
     <td align="center">
     <a href="https://youtu.be/YjSe7RMXIkU">Lecture part</a><br>
@@ -71,12 +71,12 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
       Lab 6 <a href="https://colab.research.google.com/drive/12bZhcX3mbVJzpxYkFVI46ciK0yCPCtm_?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
       Lab 7 <a href="https://colab.research.google.com/drive/1XhX6IiVaYcaOTQt2CI-RuPGRbXY0gm8u?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
-    <td align="center">
+    <td align="center">-
     </td>
     <td align="center">
-    <a href=""</a><br>
+    <a href="https://kaust.zoom.us/rec/share/jznHEciS9fRfI4Cf9FZEyMl06PhxyEdIjbc1dGPQ_Ly3BloQGEw_YH99I9OwXd4D.bBYLeKPztfXxvuj2">Lecture part (Password: @u6BIbZ8) </a>
     <a href=""</a>
-   <td align="center"></td>
+   <td align="center">-</td>
   </tr>
   
 </table>
