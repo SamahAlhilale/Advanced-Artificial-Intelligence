@@ -94,15 +94,15 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td align="center">-
     </td>
     <td align="center">
-    <a href=""</a>
-    <a href=""</a>
+    <a href="https://kaust.zoom.us/rec/share/ghpa_V0jRBolD3PhpxDdcRrj9fibkGafb7ZwhkixCm3ICwUaBxzes1_YxBUrlg7b.d67QoM70s8sXSSaZ">Lecture part (Password: mLiB5a%A) </a><br>
+    <a href="https://youtu.be/TzPy5nhFqD0"</a> Coding part
    <td align="center">-</td>
   </tr>
 
    <tr>
     <td>6</td>
     <td align="center">
-        <a href="">Slides</a><br>
+        <a href="https://drive.google.com/file/d/1PXgr-xukW3Lfq_VioBSqMXnjYqe8D0ZB/view?usp=sharing">Slides</a><br>
     </td>
     <td align="center">
       </a><br>
