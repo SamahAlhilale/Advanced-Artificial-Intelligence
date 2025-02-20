@@ -87,7 +87,7 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
         <a href="https://drive.google.com/file/d/1PXgr-xukW3Lfq_VioBSqMXnjYqe8D0ZB/view?usp=sharing">Slides</a><br>
     </td>
     <td align="center">
-      Lab 8 <a href="https://colab.research.google.com/drive/1dgsJsgN-RZZQX6nYHShMgUg-nRSsfdmV?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+      Lab 8 (Updated)<a href="https://colab.research.google.com/drive/19g-kKTeES-3ucup84flQgjdbWGzbmM2y?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
       Lab 9 <a href="https://colab.research.google.com/drive/11NSveQRy8BO9gK8P4gxREnzOHj_Jwh8G?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
       Lab 10 <a href="https://colab.research.google.com/drive/1cAMwsuZF7fAuE8SloxDnSxRVytcJ7NB8?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
@@ -103,15 +103,18 @@ This repository contains lecture slides, tutorials, hands-on coding exercises.
     <td>6</td>
     <td align="center">
         <a href="https://drive.google.com/file/d/1PXgr-xukW3Lfq_VioBSqMXnjYqe8D0ZB/view?usp=sharing">Slides</a><br>
+        <a href="https://drive.google.com/file/d/1KemiIK1C50_n_dWcf-aT0NAZ3lTKdXXn/view?usp=sharing"> Revision Slides </a>
     </td>
     <td align="center">
-      </a><br>
+     Revision lab 1  <a href="https://colab.research.google.com/drive/11XRX5GXz1nRiBqDXXInQh3KSFVZOEYKi?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
+     Revision lab 2  <a href="https://colab.research.google.com/drive/1A-n7T_3w0iJfTxnqWQou0nvmuiDeW2c-?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a><br>
     </td>
     <td align="center">-
     </td>
     <td align="center">
-    <a href=""</a>
-    <a href=""</a>
+    <a href="https://kaust.zoom.us/rec/share/mswk8vt7dIKYMfWMxZHUxrSdsWhuCDw85hGjldzd0ZvhiP_b2tQ7dj7z3VKgJZAa.rqqeATd_bhtho65i"</a>Lecture part (Password: ?v^iPZ18)<br>
+    <a href="https://youtu.be/6Q5bMSXJaVI"</a>Theoretical part revision<br>
+    <a href="https://youtu.be/UKGxkHMTyBY"</a>Lab Revision<br>
    <td align="center">-</td>
   </tr>
     
